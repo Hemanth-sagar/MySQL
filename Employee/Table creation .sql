@@ -25,3 +25,14 @@ insert into emps values(421,'p1',12000,0);
 select * from emps;
 
 
+o/p:
+    EMPID	FULLNAME	   MANAGERID	CITY
+     121	john snow	     321	    Toronto
+     321	Walter White	 986	    California
+     421	Kuldeep rana	 876	    New Delhi
+     
+    EMPID	PROJECTID	SALARY	VARIABLE
+    121	        p1	     8000	  500
+    321	        p2	     10000	  1000
+    421	        p1	     12000	   0
+
